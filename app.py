@@ -96,7 +96,7 @@ st.set_page_config(
 
 
 # Section 1: Plan Info
-st.sidebar.image('Fynd_logo2.png', width = 200)
+st.sidebar.image('Fynd_logo2.png', width = 250)
 user_name = st.sidebar.text_input("Enter your name:")
 st.sidebar.title("Section 1: Plan Info")
 plan_name = st.sidebar.text_input("Plan Name", help="Enter the name of the plan")
@@ -129,7 +129,7 @@ plan_validity_options = ["One time", "Monthly", "Quarterly", "Bi-Annually", "Ann
 payment_method_options = ["Prepaid", "Postpaid"]
 
 # In the first column, display the image
-st.image("Fynd copy.png", width=100)
+st.image("Fynd copy.png", width=200)
 
 st.title(":violet[Plan maker]")
 
