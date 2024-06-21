@@ -96,7 +96,7 @@ st.set_page_config(
 
 
 # Section 1: Plan Info
-st.sidebar.image('Fynd_logo2.png', width = 400)
+st.sidebar.image('Fynd_logo2.png', width = 200)
 user_name = st.sidebar.text_input("Enter your name:")
 st.sidebar.title("Section 1: Plan Info")
 plan_name = st.sidebar.text_input("Plan Name", help="Enter the name of the plan")
