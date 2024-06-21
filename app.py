@@ -129,7 +129,7 @@ plan_validity_options = ["One time", "Monthly", "Quarterly", "Bi-Annually", "Ann
 payment_method_options = ["Prepaid", "Postpaid"]
 
 # In the first column, display the image
-st.image("Fynd copy.png", width=300)
+st.image("Fynd copy.png", width=100)
 
 st.title(":violet[Plan maker]")
 
