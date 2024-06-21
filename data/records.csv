@@ -1,3 +1,2 @@
-Company ID,Company Name,Application ID,Fulfilling Location,Plan Name,Plan Description,Plan Start Date,Ordering Channels,Fee Type,Fee Nature,Variable,Plan Validity,Payment Method
- ,XYZ,,Store,Mercedes,dcdsdshcuh,2024-06-19,Uniket,Transaction,Flat currency,Bag,Monthly,Prepaid
- cehchehu,XYZ,ejehchc,Store,ABC,cdcegyuguy,2024-06-19,Uniket,Logistics,Fixed %,Shipment,Monthly,Prepaid
+User Name,Plan Name,Plan Description,Plan Start Date,Ordering Channels,Company ID,Company Name,Fulfilling Location,Application ID,Fee Type,Variable,Chargeable on,Fee Nature,Commercial value,Usage limit,Minimum/Capping value,Threshold option,Plan Validity,Payment Method,PM_id
+,,,2024-06-21,--please select--,,,Store,,--please select--,--please select--,--please select--,Slab based,89,23,34,14,Monthly,Prepaid,_--_St__--_--_--_Sl_14
